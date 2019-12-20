@@ -1,6 +1,6 @@
 # Hackintosh-EFI-for-Gigabyte-Z390-Aorus-Elite
-Hackintosh EFI for Gigabyte Z390 Aorus Elite
 </hr>
+<strong>The Clove file have been tested on Catalina 10.15.2</strong>
 
 Just download the CLOVER file, and replace the original one with DiskGenus, Just try it, lol.<br><br></hr>
 
